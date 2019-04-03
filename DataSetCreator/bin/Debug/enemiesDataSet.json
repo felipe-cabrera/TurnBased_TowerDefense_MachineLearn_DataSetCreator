@@ -1,0 +1,502 @@
+[
+  {
+    "Attack": 29,
+    "Defense": 4,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 28,
+    "Defense": 13,
+    "EnemyType": 1
+  },
+  {
+    "Attack": 26,
+    "Defense": 16,
+    "EnemyType": 1
+  },
+  {
+    "Attack": 2,
+    "Defense": 28,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 25,
+    "Defense": 11,
+    "EnemyType": 1
+  },
+  {
+    "Attack": 21,
+    "Defense": 4,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 21,
+    "Defense": 6,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 22,
+    "Defense": 8,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 26,
+    "Defense": 15,
+    "EnemyType": 1
+  },
+  {
+    "Attack": 19,
+    "Defense": 7,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 24,
+    "Defense": 15,
+    "EnemyType": 1
+  },
+  {
+    "Attack": 6,
+    "Defense": 23,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 13,
+    "Defense": 16,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 28,
+    "Defense": 1,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 16,
+    "Defense": 19,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 19,
+    "Defense": 18,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 15,
+    "Defense": 7,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 11,
+    "Defense": 6,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 12,
+    "Defense": 8,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 19,
+    "Defense": 12,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 16,
+    "Defense": 6,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 6,
+    "Defense": 28,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 23,
+    "Defense": 19,
+    "EnemyType": 1
+  },
+  {
+    "Attack": 5,
+    "Defense": 28,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 1,
+    "Defense": 22,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 14,
+    "Defense": 15,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 8,
+    "Defense": 27,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 19,
+    "Defense": 5,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 26,
+    "Defense": 4,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 2,
+    "Defense": 24,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 11,
+    "Defense": 13,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 13,
+    "Defense": 13,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 17,
+    "Defense": 19,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 23,
+    "Defense": 6,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 8,
+    "Defense": 21,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 7,
+    "Defense": 29,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 13,
+    "Defense": 17,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 26,
+    "Defense": 12,
+    "EnemyType": 1
+  },
+  {
+    "Attack": 11,
+    "Defense": 16,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 28,
+    "Defense": 9,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 23,
+    "Defense": 12,
+    "EnemyType": 1
+  },
+  {
+    "Attack": 15,
+    "Defense": 14,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 15,
+    "Defense": 17,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 9,
+    "Defense": 27,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 17,
+    "Defense": 15,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 28,
+    "Defense": 1,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 11,
+    "Defense": 18,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 15,
+    "Defense": 19,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 12,
+    "Defense": 4,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 29,
+    "Defense": 12,
+    "EnemyType": 1
+  },
+  {
+    "Attack": 13,
+    "Defense": 19,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 8,
+    "Defense": 21,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 14,
+    "Defense": 14,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 14,
+    "Defense": 13,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 25,
+    "Defense": 3,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 27,
+    "Defense": 8,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 15,
+    "Defense": 3,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 17,
+    "Defense": 17,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 29,
+    "Defense": 8,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 27,
+    "Defense": 13,
+    "EnemyType": 1
+  },
+  {
+    "Attack": 23,
+    "Defense": 5,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 14,
+    "Defense": 17,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 15,
+    "Defense": 9,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 15,
+    "Defense": 15,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 18,
+    "Defense": 7,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 13,
+    "Defense": 11,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 17,
+    "Defense": 4,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 16,
+    "Defense": 15,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 9,
+    "Defense": 25,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 28,
+    "Defense": 18,
+    "EnemyType": 1
+  },
+  {
+    "Attack": 23,
+    "Defense": 16,
+    "EnemyType": 1
+  },
+  {
+    "Attack": 26,
+    "Defense": 1,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 6,
+    "Defense": 22,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 13,
+    "Defense": 13,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 2,
+    "Defense": 29,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 9,
+    "Defense": 29,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 5,
+    "Defense": 27,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 16,
+    "Defense": 1,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 4,
+    "Defense": 27,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 27,
+    "Defense": 4,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 25,
+    "Defense": 6,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 23,
+    "Defense": 2,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 5,
+    "Defense": 23,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 17,
+    "Defense": 6,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 1,
+    "Defense": 25,
+    "EnemyType": 4
+  },
+  {
+    "Attack": 27,
+    "Defense": 4,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 11,
+    "Defense": 11,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 13,
+    "Defense": 4,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 25,
+    "Defense": 7,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 12,
+    "Defense": 12,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 27,
+    "Defense": 18,
+    "EnemyType": 1
+  },
+  {
+    "Attack": 14,
+    "Defense": 8,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 17,
+    "Defense": 19,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 11,
+    "Defense": 4,
+    "EnemyType": 3
+  },
+  {
+    "Attack": 13,
+    "Defense": 18,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 28,
+    "Defense": 6,
+    "EnemyType": 0
+  },
+  {
+    "Attack": 18,
+    "Defense": 17,
+    "EnemyType": 2
+  },
+  {
+    "Attack": 25,
+    "Defense": 17,
+    "EnemyType": 1
+  },
+  {
+    "Attack": 25,
+    "Defense": 12,
+    "EnemyType": 1
+  },
+  {
+    "Attack": 21,
+    "Defense": 17,
+    "EnemyType": 1
+  }
+]
