@@ -8,11 +8,20 @@ namespace AprendizadoMaquinaInimigos
 {
     public class EnemyRules
     {
-        static private int[] AttackInterval;
-        static private int[] DefenseInterval;
+        #region properties
+        static private int[] AttackInterval; // Class attack interval
+        static private int[] DefenseInterval; // Class defense interval
+        #endregion
 
+        /// <summary>
+        /// Method to define the rules of each available enemy class
+        /// </summary>
+        /// <param name="enemyType">The enemy type</param>
+        /// <returns>The enemy class rules</returns>
         static public Tuple<int[],int[]> ClassRules(EnemyTypes enemyType)
         {
+            // Switch our current enemy type untill find what type is it
+            // after that, we define the respective Attack and Defense invertal
             switch (enemyType)
             {
                 case EnemyTypes.Blue:
@@ -37,6 +46,7 @@ namespace AprendizadoMaquinaInimigos
                     break;
             }
 
+            // Return the rules of the current enemy class
             return Tuple.Create<int[], int[]>(AttackInterval,DefenseInterval);         
            
         }

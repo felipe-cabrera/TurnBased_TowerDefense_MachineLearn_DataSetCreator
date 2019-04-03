@@ -8,16 +8,30 @@ using Newtonsoft.Json;
 
 namespace AprendizadoMaquinaInimigos
 {
+    /// <summary>
+    /// Class responsable to define an enemy
+    /// </summary>
     public class Enemy
     {
 
-        
-        [JsonIgnore]
-        public EnemyTypes ClassifiedEnemyType { get; set; }
-        public int Attack { get; set; }
-        public int Defense { get; set; }
-        public EnemyTypes EnemyType { get; set; }
+        // [JsonIgnore] is a attribute used to Hide the property in the output JSON
 
+        #region Properties
+        [JsonIgnore]
+
+        public int Attack { get; set; } // Enemy Attack value
+        public int Defense { get; set; } // Enemy Defense value
+        public EnemyTypes EnemyType { get; set; } // The real type
+        public EnemyTypes ClassifiedEnemyType { get; set; } // The classified type
+
+        #endregion
+
+        /// <summary>
+        /// The enemy object constructor
+        /// </summary>
+        /// <param name="attack">attack value</param>
+        /// <param name="defense">defense value</param>
+        /// <param name="enemyType">enemy real type</param>
         public Enemy(int attack, int defense, EnemyTypes enemyType)
         {
             this.Attack = attack;
@@ -25,6 +39,10 @@ namespace AprendizadoMaquinaInimigos
             this.EnemyType = enemyType;
         }
         
+        /// <summary>
+        /// The enemy classification
+        /// </summary>
+        /// <param name="classifier">The choosen Classifier</param>
         public void Classify(IClassifier classifier)
         {
             ClassifiedEnemyType = classifier.Classify(this);
