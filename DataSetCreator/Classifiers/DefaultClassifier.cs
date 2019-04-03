@@ -8,7 +8,7 @@ namespace AprendizadoMaquinaInimigos.Classifiers
 {
     /// <summary>
     /// This default classifier will always be correct. It's just an example of Classifiers
-    /// To create a classifier you will need to implement the IClassifier interface and create the method Classify
+    /// To create a classifier you will need to implement the IClassifier interface (will be needed to create the method "EnemyTypes Classify(Enemy enemy)")
     /// </summary>
     class DefaultClassifier : IClassifier
     {
