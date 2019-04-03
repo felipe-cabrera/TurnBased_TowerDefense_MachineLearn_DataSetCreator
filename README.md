@@ -43,3 +43,9 @@ The dataset creator of the project https://github.com/felipe-cabrera/TurnBased_T
   Paulo Berlanga Neto  
   Vinícius de Souza Gonçalves  
  
+# Requirements  
+  Visual Studio 2019 (Recommended) or 2017.  
+  - You can download it at: https://visualstudio.microsoft.com/vs/
+
+# Copyright  
+ This project is totally educational, aiming only at sharing knowledge and science. If it is useful to you, you can use it as you wish, just give us the credits (citation)
