@@ -37,7 +37,7 @@ The dataset creator of the project https://github.com/felipe-cabrera/TurnBased_T
   Well... That's the most complicated part, but it's also easy. To create a new Classify we need to create a class that implements the interface IClassifier and develop our algorithm into the method Classify, returning the classified type of our enemy.  
   You can check the class DefaultClassifier to see an example of how to implements the IClassifier interfaces  
   
-# Authors:
+# Authors
   Felipe Cabrera Ribeiro dos Santos  
   Mauricio Anderson Perecim  
   Paulo Berlanga Neto  
